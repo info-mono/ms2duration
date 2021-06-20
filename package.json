@@ -1,0 +1,9 @@
+{
+  "name": "ms2duration",
+  "version": "1.0.0",
+  "description": "Milliseconds to full duration converter",
+  "global": "true",
+  "scripts": ["bin/ms2duration"],
+  "files": ["man/ms2duration.1"],
+  "install": "make install"
+}
