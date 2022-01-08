@@ -24,12 +24,12 @@ ln -s ~/.local/share/ms2duration/bin/ms2duration ~/.local/bin/ms2duration
 ```
 
 #### 📦 Package manager
-For [`bpkg`](https://github.com/bpkg/bpkg) user:
+For [Bpkg](https://github.com/bpkg/bpkg) user:
 ```sh
 bpkg install info-mono/ms2duration
 ```
 
-For [Basher](https://github.com/bpkg/bpkg) user:
+For [Basher](https://github.com/basherpm/basher) user:
 ```sh
 basher install info-mono/ms2duration
 ```
